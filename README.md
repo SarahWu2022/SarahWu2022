@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SarahWu2022
-- 👀 I’m interested in Software Engineer or Business Analyst job oppotunity
-- 🌱 I’m currently learning Advanced Computing in Melbourne University
+- 👋 Hi, I’m Sarah
+- 👀 I’m interested in becoming a Software Engineer/Developer
+- 🌱 I’m currently doing master of computing in Melbourne University
 - 💞️ I’m looking to collaborate on any interesting project related to computing and software development
 - 📫 Reach me by email: sarahwuwork@gmail.com
 
